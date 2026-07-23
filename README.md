@@ -108,18 +108,6 @@ The Power BI dashboard includes:
   - Top 5 Products by Review Rating
 
 ---
-
-## Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
-
 ## Key Insights
 
 - Clothing generated the highest revenue and sales.
